@@ -4,7 +4,8 @@
   "description": "Jamstack tutorial",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "eleventy --serve",
+    "build": "eleventy"
   },
   "author": "",
   "license": "ISC",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/KG-Networks/jamstack-tutorial/issues"
   },
-  "homepage": "https://github.com/KG-Networks/jamstack-tutorial#readme"
+  "homepage": "https://github.com/KG-Networks/jamstack-tutorial#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.1"
+  }
 }
