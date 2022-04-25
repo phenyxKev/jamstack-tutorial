@@ -1,7 +1,8 @@
 ---
 title: My Second Article
-author: Kevin Powell
+author: Kevin
 date: 2021-05-15
+day: 25 april 2022
 tags: ["post", "featured"]
 image: /assets/blog/article-2.jpg
 imageAlt: This is a test

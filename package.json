@@ -17,7 +17,7 @@
     "url": "https://github.com/KG-Networks/jamstack-tutorial/issues"
   },
   "homepage": "https://github.com/KG-Networks/jamstack-tutorial#readme",
-  "dependencies": {
+  "devDependencies": {
     "@11ty/eleventy": "^1.0.1"
   }
 }
