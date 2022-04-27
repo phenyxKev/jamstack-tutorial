@@ -385,3 +385,11 @@ section,
   color: var(--clr-neutral-100);
   background-color: var(--clr-neutral-900);
 }
+
+/* //////////////////////
+  Personalized CSS
+  /////////////////////// */
+.twttr {
+  text-decoration: none;
+  color: hsla(169, 100%, 16%, 1);
+}
